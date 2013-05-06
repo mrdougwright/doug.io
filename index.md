@@ -12,6 +12,5 @@ tagline: by doug wright
 
 [Doug Wright blog](http://mrdougwright.com)
 
-
 #### an old website I plan to port over soon
 [gr8pic](http://gr8pic.com/)
