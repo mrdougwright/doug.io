@@ -15,8 +15,8 @@ tagline: by doug wright
 #### an old website I plan to port over soon
 [gr8pic](http://gr8pic.com/)
 
-#### silly javascript games
-[blackjack](/blackjack.html)
+#### a cool rot13 encoder
+[ROT13](/rot13.html)
 
 #### more
 [about](/about.html)

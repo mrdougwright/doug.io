@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% include JB/setup %}
+{% include themes/twitter/page.html %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real-time ROT13</title>
+    <script src="ROT13_script.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="ROT13_ui.css">
+    <!-- This code was written with the help of codecademy.com -->
+</head>
+
+<body>
+
+  <div class="rot13_encoder">
+    <h1>ROT13 in Real Time</h1>
+    <!-- every time the user types in the text area...  -->
+    <textarea class="textbox" id="input"></textarea>
+    <!-- ...the rot13-transformed text appears in the p -->
+    <p class="textbox" id="output"></p>
+    <p align="right">
+        <a href="http://en.wikipedia.org/wiki/ROT13" target="_blank">What is ROT13?</a>
+    </p>
+  </div>
+  
+</body>
+</html>
