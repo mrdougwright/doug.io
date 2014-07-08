@@ -32,8 +32,7 @@ window.onload = function() {
     var input  = document.getElementById("input");
     var output = document.getElementById("output");
     
-    // move focus to input field so user can start typing immediately
-    input.focus();
+    output.innerHTML = rot13(input.value);
     
     // bind the input's "key up" event to rot13 translation action
     input.onkeyup = function() {

@@ -6,7 +6,7 @@ image: /images/doug-wright.jpg
 ---
 {% include JB/setup %}
 
-I'm a bit of a jack of all trades and master of none. I know how to play guitar, write code and optimize in the marketing world. I'm also a filmmaker, writer, philosopher, a dreamer...my curiosity hasn't killed me yet, so I strive to keep learning.
+I'm a bit of a jack of all trades and master of...some. I know how to play guitar, write code and optimize in the marketing world. I'm also a filmmaker, writer, philosopher, a dreamer...  Perhaps my biggest goal in life is to keep learning.
 
 I made this site to play with [Jekyll](https://github.com/mojombo/jekyll) and create a central repository for some of my interweb connections.
 
