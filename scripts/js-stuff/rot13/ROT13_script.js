@@ -14,7 +14,7 @@ function rot13_creator() {
     var rot13_dict = {}; // dict: {A:'N', ..., z:'m'}
     keys.forEach( function(key, index){
         rot13_dict[key] = values[index]; } );
-    
+
     // slightly changed to make the code shorter
     return function(text) {
         return text.split("")
@@ -28,12 +28,12 @@ var rot13 = rot13_creator();
 
 window.onload = function() {
     // when the document is loaded, do this:
-    // get the input field and the output paragraph 
+    // get the input field and the output paragraph
     var input  = document.getElementById("input");
     var output = document.getElementById("output");
-    
+
     output.innerHTML = rot13(input.value);
-    
+
     // bind the input's "key up" event to rot13 translation action
     input.onkeyup = function() {
         /* Your code here! */
