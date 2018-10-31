@@ -11,16 +11,28 @@ I'm a bit of a jack of all trades and master of...some. I know how to play guita
 I made this site to play with [Jekyll](https://github.com/mojombo/jekyll) and create a central repository for some of my interweb connections.
 
 <div class="well" align="center">
-	<button class="btn">
-		<img src="http://www.linkedin.com/favicon.ico" width="20px" height="20px">
-			<a href="http://www.linkedin.com/in/mrdougwright">Linked In</a></button>
-	<button class="btn">
-		<img src="http://www.github.com/favicon.ico" width="20px" height="20px"> 
-			<a href="https://github.com/mrdougwright">Github</a></button>
-	<button class="btn">
-		<img src="http://twitter.com/favicon.ico" width="20px" height="20px"> 
-			<a href="https://twitter.com/mrdougwright">Twitter</a></button>
-	<button class="btn">
-		<img src="http://medium.com/favicon.ico" width="20px" height="20px">
-			<a href="https://medium.com/@mrdougwright">Medium</a></button>
+  <a href="http://www.linkedin.com/in/mrdougwright" target="_blank">
+		<button class="btn">
+			<img src="http://www.linkedin.com/favicon.ico" width="20px" height="20px">
+			Linked In
+		</button>
+	</a>
+	<a href="https://github.com/mrdougwright" target="_blank">
+		<button class="btn">
+			<img src="http://www.github.com/favicon.ico" width="20px" height="20px">
+			Github
+		</button>
+	</a>
+	<a href="https://twitter.com/mrdougwright" target="_blank">
+		<button class="btn">
+			<img src="http://twitter.com/favicon.ico" width="20px" height="20px">
+			Twitter
+		</button>
+	</a>
+	<a href="https://medium.com/@mrdougwright" target="_blank">
+		<button class="btn">
+			<img src="http://medium.com/favicon.ico" width="20px" height="20px">
+			Medium
+		</button>
+	</a>
 </div>
